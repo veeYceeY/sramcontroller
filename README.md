@@ -1,2 +1,2 @@
 # sramcontroller
-Simple SRAM controller , tested on ALTERA DE1 board
+Simple SRAM controller , tested on ALTERA DE1 b
